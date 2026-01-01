@@ -15,4 +15,4 @@ A simple Java console-based game where the user guesses a randomly generated num
 - Visual Studio Code
 
 ### Author
-Your Name
+MANEEDEEP MANGAPOTI
